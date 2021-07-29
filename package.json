@@ -1,0 +1,22 @@
+{
+  "name": "hysteria",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Slow, feature-rich, object oriented parser toolkit for JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "save": "git add .; git commit -m 'New Release'; git push; npm version patch; npm publish; git push;",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catpea/hysteria.git"
+  },
+  "keywords": [],
+  "author": "catpea <corporate.miou@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/catpea/hysteria/issues"
+  },
+  "homepage": "https://github.com/catpea/hysteria#readme"
+}
