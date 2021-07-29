@@ -1,7 +1,7 @@
 {
   "name": "hysteria",
   "type": "module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Slow, feature-rich, object oriented parser toolkit for JavaScript.",
   "main": "index.js",
   "scripts": {
